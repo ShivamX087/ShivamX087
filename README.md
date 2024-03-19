@@ -16,7 +16,8 @@
 ### 💻 Current working environments
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-in/software-download/windows10)
 [![Ubuntu 22.04 WSL](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/wsl)
-[![Android 14](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-14/)
+![Android 14](https://github.com/ShivamX087/ShivamX087/assets/155878697/64e2036f-433b-429e-aed2-180096c979f2)
+
 
 ### 💻 Current Work Machine
 <img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/9ce6aedb-6fef-486a-8b02-1ae9ef8685cb)" width="30px" height="30px"> Intel Core i5 7200u
