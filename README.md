@@ -8,7 +8,7 @@
 - 📫Lets Connect through: Telegram
 
 <a href="https://t.me/ShivamX20027">
-  <img align="left" alt="Shivam's Telegram" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
+<img align="left" alt="Shivam's Telegram" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
 
 <br><br>
@@ -27,3 +27,12 @@
 HDD
 
 <img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/11991c8b-052d-4c6c-a08d-65e97dce2990" width="36px" height="36px"> 8GB RAM
+
+### ⚙️ &nbsp;My GitHub Analytics
+<p align="center">
+<a href="https://github.com/ShivamX087">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivamX087&theme=cobalt&show_icons=true&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamX087&theme=cobalt&hide_border=false"/>
+</a>
+</p>
+<br>
