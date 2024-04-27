@@ -8,45 +8,48 @@
 - 📫Lets Connect through: Telegram,Gmail
 
 <a href="https://t.me/ShivamX20027">
-<img align="left" alt="Shivam's Telegram" width="60px" src="https://github.com/ShivamX087/ShivamX087/assets/155878697/eb74d75d-77f6-4589-b997-9940cccb1b87" />
+<img align="left" alt="Shivam's Telegram" width="60px" src="https://github.com/ShivamX087/ShivamX087/assets/155878697/1354a493-29f2-4028-ac41-ee896f605da8"/>
 </a>
+
 <a href="shivamjindal137@gmail.com">
 <img align="left" alt="My Gmail" width="70px"
-src="https://github.com/ShivamX087/ShivamX087/assets/155878697/0f27d58f-8c12-4212-8305-22d56dd97a5d" />
+src="https://github.com/ShivamX087/ShivamX087/assets/155878697/3044e580-5f51-4e42-a3da-74ff122f94a9" />
 </a>
 
 <br><br>
 
 ### 💻 Current working environments
-![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Arch linux](https://github.com/ShivamX087/ShivamX087/assets/155878697/7ef790cb-5c08-47ec-9920-1137ddb1f805)
-![Android 14](https://github.com/ShivamX087/ShivamX087/assets/155878697/64e2036f-433b-429e-aed2-180096c979f2)
+<img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/0178a3c9-3efe-4127-913f-e1fd43bc5183" align="left" width="50px" />
+
+<img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/c3cb15d9-1530-4628-bf3e-35e0732debcc" align="left" width="50px" />
+
+<img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/24a992f6-fb5e-4015-b7dd-806742b2deac)" align="left" width="60px" /> <br><br>
 
 ### Languages and tools
 <img align="left" alt="bash" width="60px"
-src="https://github.com/ShivamX087/ShivamX087/assets/155878697/2eb6873a-4548-4f30-b8eb-8f17be12fbbb" />
+src="https://github.com/ShivamX087/ShivamX087/assets/155878697/b6ec8601-6af2-446e-837a-9bb524a1c707" />
 
 <img align="left" alt="linux" width="60px"
-src="https://github.com/ShivamX087/ShivamX087/assets/155878697/8238cb32-f6e0-422f-b060-b8bc0577a1b0" />
+src="https://github.com/ShivamX087/ShivamX087/assets/155878697/c2d9f4ad-24f9-4bdb-93fd-af543f47ba8d" />
 
 <img align="left" alt="C" width="60px"
-src="https://github.com/ShivamX087/ShivamX087/assets/155878697/076ee3d8-fd5e-4bb0-bc36-29a676ec33b9" />
+src="https://github.com/ShivamX087/ShivamX087/assets/155878697/30dc1d6c-c8b4-4af3-9305-470281f6162c" />
 
 <img align="left" alt="html" width="67px"
-src="https://github.com/ShivamX087/ShivamX087/assets/155878697/9ee003c5-3fa1-49d9-9b28-1ad476bde2a7" />
+src="https://github.com/ShivamX087/ShivamX087/assets/155878697/777da620-2d42-4f85-b67d-72d538b60b48" />
 
-<img align="left" alt="html" width="67px"
-src="https://github.com/ShivamX087/ShivamX087/assets/155878697/a123bef9-7105-4808-a95d-6cb202148833" /> <br><br>
+<img align="left" alt="css" width="67px"
+src="https://github.com/ShivamX087/ShivamX087/assets/155878697/9a89376b-6d7b-4ae2-a497-88c74dab27b6" /> <br><br>
 <br><br>
 
 ### 💻 Current Work Machine
-<img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/e20cbceb-62a8-46ae-80a4-efbec835b7ce" align="left" width="40px" /> <hd2>Intel Core i5 7200u</hd2> <br><br>
+<img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/6de42e87-1be7-4907-b0e4-27baffcc3565" align="left" width="60px" /> <hd2>Intel Core i5 7200u</hd2> <br><br>
 
-<img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/ec178341-90df-4217-b0dd-6e99764700ec" align="left"  width="50px"/> <hd2>Radeon RM330/Intel HD 720</hd2>  <br><br>
+<img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/2acc7eff-75f2-4c49-a415-984dfdb929e3" align="left"  width="60px"/> <hd2>Radeon RM330/Intel HD 720</hd2>  <br><br>
 
-<img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/4f3042f9-4e64-430f-81df-efdce2e22c44" align="left" width="50px" /> <hd2>1TB HDD</hd2> <br><br>
+<img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/2d915328-9a6b-44f1-a50f-37d3d7d33aef" align="left" width="60px" /> <hd2>1TB HDD</hd2> <br><br>
 
-<img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/b4938a91-0c52-42f1-9786-49f60dde5997" align="left" width="45px" /> <hd2>8GB RAM</hd2> <br><br>
+<img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/2a6e6e7f-5a2b-4e20-a076-1e39053c5289" align="left" width="60px" /> <hd2>8GB RAM</hd2> <br><br>
 
 ### ⚙️ &nbsp;My GitHub Analytics
 <p align="center">
