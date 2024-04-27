@@ -49,7 +49,7 @@ src="https://github.com/ShivamX087/ShivamX087/assets/155878697/9a89376b-6d7b-4ae
 
 <img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/2d915328-9a6b-44f1-a50f-37d3d7d33aef" align="left" width="45px" /> <hd2>1TB HDD</hd2> <br><br>
 
-<img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/2a6e6e7f-5a2b-4e20-a076-1e39053c5289" align="left" width="45px" /> <hd2>8GB RAM</hd2> <br><br>
+<img src="https://github.com/ShivamX087/ShivamX087/assets/155878697/2a6e6e7f-5a2b-4e20-a076-1e39053c5289" align="left" width="49px" /> <hd2>8GB RAM</hd2> <br><br>
 
 ### ⚙️ &nbsp;My GitHub Analytics
 <p align="center">
