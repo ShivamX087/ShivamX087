@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Jindal</h1>
-<h3 align="center"> A passionate Web && Android developerfrom India</h3>
+<h3 align="center"> A passionate Web && Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamx087&label=Profile%20views&color=0e75b6&style=flat" alt="shivamx087" /> </p>
 
@@ -10,8 +10,6 @@
 - 👯 I’m looking to collaborate on **Open source projects such as AOSP**
 
 - 💬 Ask me about **AOSP & WEB**
-
-- 📫 How to reach me **Telegram- @ShovamX087**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
