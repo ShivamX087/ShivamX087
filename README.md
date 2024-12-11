@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shivam Jindal</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I am Shivam+Jindal&font=Fira%20Code&center=true&width=380&height=50"/></a>
+</p>
 
 <p align="center">
 <img width="300px" src="https://github.com/user-attachments/assets/22332d7b-43fd-4204-93c0-eeac74090d56">
