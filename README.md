@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Jindal</h1>
+
+<p align="center">
+<img width="300px" src="https://github.com/user-attachments/assets/22332d7b-43fd-4204-93c0-eeac74090d56">
+ </p>
+
 <h3 align="center"> A passionate Web && Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamx087&label=Profile%20views&color=0e75b6&style=flat" alt="shivamx087" /> </p>
