@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img width="300px" src="https://github.com/user-attachments/assets/22332d7b-43fd-4204-93c0-eeac74090d56">
+<img width="250px" src="https://github.com/user-attachments/assets/b6f70537-e514-4cd0-9890-3f57eb901fa1">
  </p>
 
 <h3 align="center"> A passionate Web && Android developer from India</h3>
