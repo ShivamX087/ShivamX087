@@ -6,6 +6,8 @@
 <img width="250px" src="https://github.com/user-attachments/assets/b6f70537-e514-4cd0-9890-3f57eb901fa1">
  </p>
 
+ <h1 align="center">💫 About me!</h1>
+
 <h3 align="center"> A passionate Web && Android developer from 🇮🇳</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shivamx087&label=Profile%20views&color=0e75b6&style=flat" alt="Shivamx087" />
