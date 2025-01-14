@@ -6,9 +6,11 @@
 <img width="250px" src="https://github.com/user-attachments/assets/b6f70537-e514-4cd0-9890-3f57eb901fa1">
  </p>
 
-<h3 align="center"> A passionate Web && Android developer from India</h3>
+<h3 align="center"> A passionate Web && Android developer from 🇮🇳</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shivamx087&label=Profile%20views&color=0e75b6&style=flat" alt="Shivamx087" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shivamx087&label=Profile%20views&color=0e75b6&style=flat" alt="Shivamx087" />
+<img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103">
+</p>
 
 - 🌱 I’m currently working on custom roms for Motorola G72.
 
