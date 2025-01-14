@@ -20,6 +20,8 @@
 
 - 💬 Ask me about **AOSP & WEB**.
 
+<h2 align="center"><img src="https://github.com/user-attachments/assets/403eb737-53dd-4b60-8774-bee2f3d63a40" align="center" width="35px" height="35px">&nbsp;My working environments:</h2>
+
 <h2 align="center">☎️ Connect with me on:</h2>
 <p align="auto" margin="auto">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
