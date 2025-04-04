@@ -40,7 +40,7 @@
 <h2 align="center">📊 My GitHub Stats:</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=ShivamX087&theme=blueberry">
+<img src="https://streak-stats.demolab.com/?user=ShivamX087&theme=blueberry&show_icons=true&hide_border=false&layout=compact">
 </p>
 
 <p align="center">
