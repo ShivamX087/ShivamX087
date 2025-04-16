@@ -18,7 +18,10 @@
 
 - 👯 I’m looking to collaborate on **Open source projects such as AOSP**.
 
-- 💬 Ask me about **AOSP & WEB**.
+<h2 align="center">💬 Ask me about:</h2>
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=Android&labelColor=black&color=green"> <img alt="Static Badge" src="https://img.shields.io/badge/Web-yellow?style=for-the-badge&color=yellow">
+</p>
 
 <h2 align="center"><img src="https://github.com/user-attachments/assets/403eb737-53dd-4b60-8774-bee2f3d63a40" align="center" width="35px" height="35px">&nbsp;My working environments:</h2>
 
