@@ -54,6 +54,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ShivamX087&theme=algolia&show_icons=true&hide_border=false&count_private=true">
 </p>
 
+<p align="center">
+<img src="https://d3frb2mbny706b.cloudfront.net/ShivamX087" width="600">
+</p>
+
 <h2 align="center">🏆 My GitHub Trophies:</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivamx087" alt="Shivamx087" /></a> </p>
